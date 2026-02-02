@@ -3,6 +3,7 @@ public class App {
         // Matek.csinald();
         // Veletlen.csinald();
         // Poker.play();
-        Konvertalas.csinal();
+        // Konvertalas.csinal();
+        Aka.task();
     }
 }
